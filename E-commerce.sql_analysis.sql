@@ -3,6 +3,7 @@
 --------------------------------------------------
 -- Description: 10 SQL queries covering Financials, User Behavior, and Marketing Performance.
 -- Database: BigQuery (Standard SQL)
+-- Dataset Link: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset
 -- Author: [Roshan Kumar Gupta]
 
 -- ==================================================
