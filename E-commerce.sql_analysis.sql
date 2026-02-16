@@ -1,10 +1,9 @@
-/*
-Marketing E-COMMERCE ANALYTICS PORTFOLIO PROJECT
+
+--Marketing E-COMMERCE ANALYTICS PORTFOLIO PROJECT
 --------------------------------------------------
-Description: 10 SQL queries covering Financials, User Behavior, and Marketing Performance.
-Database: BigQuery (Standard SQL)
-Author: [Your Name]
-*/
+-- Description: 10 SQL queries covering Financials, User Behavior, and Marketing Performance.
+-- Database: BigQuery (Standard SQL)
+-- Author: [Roshan Kumar Gupta]
 
 -- ==================================================
 -- SECTION 1: FINANCIAL PERFORMANCE
